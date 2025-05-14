@@ -1,0 +1,15 @@
+# Files general
+# ----------------------------------
+
+*~
+*.bak
+.Identifier
+
+# Folders
+# ----------------------------------
+.vscode/
+
+# dd Best bs
+# ----------------------------------
+dd_best_testfile
+dd_obs_testfile
